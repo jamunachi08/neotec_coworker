@@ -1,0 +1,4 @@
+[pre_model_sync]
+
+[post_model_sync]
+neotec_coworker.patches.v1_1.grant_automation_tools
